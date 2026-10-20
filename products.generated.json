@@ -1,0 +1,544 @@
+{
+  "collectedAt": "2026-10-20",
+  "source": "naver",
+  "items": {
+    "foreign_equity_index": [
+      {
+        "name": "ACE 미국S&P500",
+        "code": "360200",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.0047%",
+        "feeRaw": 0.0047,
+        "aum": 39132.0,
+        "issuer": "한국투신운용(ETF)",
+        "what": "S&P500 Index",
+        "tags": [
+          "sp500"
+        ]
+      },
+      {
+        "name": "RISE 미국S&P500",
+        "code": "379780",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.0047%",
+        "feeRaw": 0.0047,
+        "aum": 14679.0,
+        "issuer": "KB자산운용",
+        "what": "S&P500 지수의 원화환산지수(환헤지 안함)",
+        "tags": [
+          "sp500"
+        ]
+      },
+      {
+        "name": "KODEX 미국나스닥100",
+        "code": "379810",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.0062%",
+        "feeRaw": 0.0062,
+        "aum": 97429.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "나스닥 100 (기술주 비중 큼)",
+        "tags": [
+          "nasdaq"
+        ],
+        "note": "한 섹터 쏠림이 커서 S&P 500 대신이 아니라 일부로"
+      },
+      {
+        "name": "ACE 미국나스닥100",
+        "code": "367380",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.0062%",
+        "feeRaw": 0.0062,
+        "aum": 34354.0,
+        "issuer": "한국투신운용(ETF)",
+        "what": "NASDAQ100 Index",
+        "tags": [
+          "nasdaq"
+        ],
+        "note": "한 섹터 쏠림이 커서 S&P 500 대신이 아니라 일부로"
+      },
+      {
+        "name": "KODEX MSCI선진국",
+        "code": "251350",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.3%",
+        "feeRaw": 0.3,
+        "aum": 4812.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "전 세계 주식",
+        "tags": [
+          "world"
+        ]
+      }
+    ],
+    "domestic_equity_index": [
+      {
+        "name": "KIWOOM 200TR",
+        "code": "294400",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.01%",
+        "feeRaw": 0.01,
+        "aum": 14025.0,
+        "issuer": "키움투자자산운용",
+        "what": "코스피200TR지수",
+        "tags": [
+          "kospi"
+        ],
+        "note": "분배금을 자동 재투자하는 TR형"
+      },
+      {
+        "name": "SOL 200TR",
+        "code": "295040",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.01%",
+        "feeRaw": 0.01,
+        "aum": 8166.0,
+        "issuer": "신한자산운용",
+        "what": "코스피 200",
+        "tags": [
+          "kospi"
+        ],
+        "note": "분배금을 자동 재투자하는 TR형"
+      },
+      {
+        "name": "RISE 코스피",
+        "code": "302450",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.02%",
+        "feeRaw": 0.02,
+        "aum": 3020.0,
+        "issuer": "KB자산운용",
+        "what": "코스피 전체",
+        "tags": [
+          "kospi_all"
+        ]
+      },
+      {
+        "name": "KODEX 코스피",
+        "code": "226490",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.15%",
+        "feeRaw": 0.15,
+        "aum": 12041.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "코스피 전체",
+        "tags": [
+          "kospi_all"
+        ]
+      }
+    ],
+    "dividend": [
+      {
+        "name": "KODEX 미국배당다우존스",
+        "code": "489250",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.0099%",
+        "feeRaw": 0.0099,
+        "aum": 6163.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "미국 배당성장주(SCHD 지수)",
+        "tags": [
+          "schd"
+        ]
+      },
+      {
+        "name": "TIGER 미국배당다우존스",
+        "code": "458730",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.01%",
+        "feeRaw": 0.01,
+        "aum": 44091.0,
+        "issuer": "미래에셋자산운용",
+        "what": "Dow Jones U.S Dividend 100 지수(원화환산)(Price Return)",
+        "tags": [
+          "schd"
+        ]
+      },
+      {
+        "name": "RISE 대형고배당10TR",
+        "code": "315960",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.07%",
+        "feeRaw": 0.07,
+        "aum": 4029.0,
+        "issuer": "KB자산운용",
+        "what": "WISE 대형고배당10 TR 지수를 추적대상지수",
+        "tags": [
+          "kr_dividend"
+        ],
+        "note": "분배금을 자동 재투자하는 TR형"
+      },
+      {
+        "name": "SOL 코리아고배당",
+        "code": "0105E0",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.15%",
+        "feeRaw": 0.15,
+        "aum": 5155.0,
+        "issuer": "신한자산운용",
+        "what": "국내 고배당주",
+        "tags": [
+          "kr_dividend"
+        ]
+      }
+    ],
+    "bond": [
+      {
+        "name": "RISE 종합채권(A-이상)액티브",
+        "code": "385540",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.012%",
+        "feeRaw": 0.012,
+        "aum": 21755.0,
+        "issuer": "KB자산운용",
+        "what": "KIS 종합채권 지수(A-이상)",
+        "tags": [
+          "bond"
+        ]
+      },
+      {
+        "name": "KODEX 미국30년국채액티브(H)",
+        "code": "484790",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.015%",
+        "feeRaw": 0.015,
+        "aum": 5971.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "미국 국채",
+        "tags": [
+          "us_bond",
+          "long_bond"
+        ],
+        "hedged": true,
+        "note": "금리가 오르면 크게 내린다 (장기채) · 환헤지형: 환율 변동을 없앤 대신 헤지 비용이 든다. 장기 적립은 환노출형이 기본"
+      },
+      {
+        "name": "KODEX 국고채10년액티브",
+        "code": "471230",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.015%",
+        "feeRaw": 0.015,
+        "aum": 4974.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "한국 국고채",
+        "tags": [
+          "krw_gov"
+        ]
+      },
+      {
+        "name": "ACE 종합채권(AA-이상)액티브",
+        "code": "356540",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.02%",
+        "feeRaw": 0.02,
+        "aum": 11427.0,
+        "issuer": "한국투신운용(ETF)",
+        "what": "국내 종합채권",
+        "tags": [
+          "bond"
+        ]
+      },
+      {
+        "name": "ACE 국고채10년",
+        "code": "365780",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.02%",
+        "feeRaw": 0.02,
+        "aum": 5725.0,
+        "issuer": "한국투신운용(ETF)",
+        "what": "KIS 10년국고채 지수",
+        "tags": [
+          "krw_gov"
+        ]
+      },
+      {
+        "name": "ACE 미국30년국채액티브(H)",
+        "code": "453850",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.05%",
+        "feeRaw": 0.05,
+        "aum": 14620.0,
+        "issuer": "한국투자신탁운용",
+        "what": "미국 국채",
+        "tags": [
+          "us_bond",
+          "long_bond"
+        ],
+        "hedged": true,
+        "note": "금리가 오르면 크게 내린다 (장기채) · 환헤지형: 환율 변동을 없앤 대신 헤지 비용이 든다. 장기 적립은 환노출형이 기본"
+      }
+    ],
+    "gold": [
+      {
+        "name": "TIGER KRX금현물",
+        "code": "0072R0",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.15%",
+        "feeRaw": 0.15,
+        "aum": 10973.0,
+        "issuer": "미래에셋자산운용",
+        "what": "KRX 금현물지수(PR)",
+        "tags": [
+          "gold"
+        ]
+      },
+      {
+        "name": "ACE KRX금현물",
+        "code": "411060",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.19%",
+        "feeRaw": 0.19,
+        "aum": 36731.0,
+        "issuer": "한국투자신탁운용",
+        "what": "KRX 금현물지수",
+        "tags": [
+          "gold"
+        ]
+      }
+    ],
+    "reit": [
+      {
+        "name": "TIGER 리츠부동산인프라",
+        "code": "329200",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.08%",
+        "feeRaw": 0.08,
+        "aum": 15698.0,
+        "issuer": "미래에셋자산운용",
+        "what": "FnGuide 부동산인프라고배당 지수",
+        "tags": [
+          "kr_reit"
+        ]
+      },
+      {
+        "name": "KODEX 한국부동산리츠인프라",
+        "code": "476800",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.09%",
+        "feeRaw": 0.09,
+        "aum": 4825.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "KRX 부동산리츠인프라 지수",
+        "tags": [
+          "kr_reit"
+        ]
+      }
+    ],
+    "cash": [
+      {
+        "name": "TIGER CD금리플러스액티브(합성)",
+        "code": "499660",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.0098%",
+        "feeRaw": 0.0098,
+        "aum": 4443.0,
+        "issuer": "미래에셋자산운용",
+        "what": "KIS CD+CPI연동금리 월분배 지수(PR)",
+        "tags": [
+          "parking"
+        ]
+      },
+      {
+        "name": "KODEX CD금리액티브(합성)",
+        "code": "459580",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.02%",
+        "feeRaw": 0.02,
+        "aum": 70741.0,
+        "issuer": "삼성자산운용(ETF)",
+        "what": "CD·KOFR 금리를 매일 쌓는 ETF",
+        "tags": [
+          "parking"
+        ]
+      },
+      {
+        "name": "SOL 초단기채권액티브",
+        "code": "469830",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.05%",
+        "feeRaw": 0.05,
+        "aum": 10961.0,
+        "issuer": "신한자산운용",
+        "what": "KAP 단기자금시장지수(KAP Short Term Money Market Index)",
+        "tags": [
+          "mmf_etf"
+        ]
+      },
+      {
+        "name": "RISE 단기채권알파액티브",
+        "code": "385550",
+        "market": "KRX",
+        "accounts": [
+          "general",
+          "isa",
+          "pension_savings",
+          "irp"
+        ],
+        "fee": "약 0.05%",
+        "feeRaw": 0.05,
+        "aum": 4255.0,
+        "issuer": "KB자산운용",
+        "what": "KIS 단기종합채권 지수(AA-이상)",
+        "tags": [
+          "mmf_etf"
+        ]
+      }
+    ]
+  }
+}
