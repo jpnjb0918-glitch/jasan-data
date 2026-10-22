@@ -1,9 +1,11 @@
 {
-  "versionName": "0.2.2",
-  "versionCode": 4,
+  "versionName": "0.2.3",
+  "versionCode": 5,
   "notes": [
-    "탭 이름 '내 계획' → '목표' (탭 안내 제목·화면 속 안내도 함께)"
+    "설치 파일 용량을 약 6분의 1로 줄임 (폰용만 넣고, 쓰는 글꼴 3개만 남김)",
+    "종목 탭 오늘 시장: '美·韓 10년 국채' → '미국·한국 10년 국채'",
+    "옛 32비트 폰(대략 2016년 이전 저가폰)에는 설치되지 않음"
   ],
-  "url": "https://github.com/jpnjb0918-glitch/jasan-app/releases/tag/v0.2.2",
+  "url": "https://github.com/jpnjb0918-glitch/jasan-app/releases/tag/v0.2.3",
   "publishedAt": "2026-10-22"
 }
